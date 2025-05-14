@@ -1,0 +1,162 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer-1": "Home Tool Markup Language",
+    "answer-2": "Hyperlinks and Text Markup Language",
+    "answer-3": "HyperText Markdown Language",
+    "answer-4": "HyperText Markup Language",
+    "correct_answer": "HyperText Markup Language"
+  },
+  {
+    "title": "Which HTML tag is used to display an image?",
+    "answer-1": "<pic>",
+    "answer-2": "<image>",
+    "answer-3": "<src>",
+    "answer-4": "<img>",
+    "correct_answer": "<img>"
+  },
+  {
+    "title": "Which HTML tag is used to define an internal style sheet?",
+    "answer-1": "<stylesheet>",
+    "answer-2": "<css>",
+    "answer-3": "<script>",
+    "answer-4": "<style>",
+    "correct_answer": "<style>"
+  },
+  {
+    "title": "Which tag is used to create a hyperlink in HTML?",
+    "answer-1": "<link>",
+    "answer-2": "<href>",
+    "answer-3": "<hyperlink>",
+    "answer-4": "<a>",
+    "correct_answer": "<a>"
+  },
+  {
+    "title": "Which attribute is used to provide alternative text for an image?",
+    "answer-1": "src",
+    "answer-2": "title",
+    "answer-3": "href",
+    "answer-4": "alt",
+    "correct_answer": "alt"
+  },
+  {
+    "title": "What is the correct HTML element for the largest heading?",
+    "answer-1": "<h6>",
+    "answer-2": "<head>",
+    "answer-3": "<heading>",
+    "answer-4": "<h1>",
+    "correct_answer": "<h1>"
+  },
+  {
+    "title": "Which tag is used to create a line break in HTML?",
+    "answer-1": "<lb>",
+    "answer-2": "<break>",
+    "answer-3": "<newline>",
+    "answer-4": "<br>",
+    "correct_answer": "<br>"
+  },
+  {
+    "title": "Which tag is used to define a table row?",
+    "answer-1": "<td>",
+    "answer-2": "<row>",
+    "answer-3": "<table-row>",
+    "answer-4": "<tr>",
+    "correct_answer": "<tr>"
+  },
+  {
+    "title": "Which tag is used to define a list item in HTML?",
+    "answer-1": "<ul>",
+    "answer-2": "<ol>",
+    "answer-3": "<list>",
+    "answer-4": "<li>",
+    "correct_answer": "<li>"
+  },
+  {
+    "title": "What does the <title> tag do?",
+    "answer-1": "Adds a tooltip to the page",
+    "answer-2": "Creates a heading",
+    "answer-3": "Changes the font style",
+    "answer-4": "Specifies the title of the document",
+    "correct_answer": "Specifies the title of the document"
+  },
+  {
+    "title": "Which element is used to define important text?",
+    "answer-1": "<b>",
+    "answer-2": "<important>",
+    "answer-3": "<bold>",
+    "answer-4": "<strong>",
+    "correct_answer": "<strong>"
+  },
+  {
+    "title": "How can you make a numbered list in HTML?",
+    "answer-1": "<ul>",
+    "answer-2": "<li>",
+    "answer-3": "<list>",
+    "answer-4": "<ol>",
+    "correct_answer": "<ol>"
+  },
+  {
+    "title": "What is the purpose of the <meta> tag in HTML?",
+    "answer-1": "To style the document",
+    "answer-2": "To create navigation links",
+    "answer-3": "To display images",
+    "answer-4": "To provide metadata about the HTML document",
+    "correct_answer": "To provide metadata about the HTML document"
+  },
+  {
+    "title": "Which HTML tag is used to create a checkbox?",
+    "answer-1": "<check>",
+    "answer-2": "<checkbox>",
+    "answer-3": "<input type=\"check\">",
+    "answer-4": "<input type=\"checkbox\">",
+    "correct_answer": "<input type=\"checkbox\">"
+  },
+  {
+    "title": "Which doctype declaration is correct for HTML5?",
+    "answer-1": "<!DOCTYPE HTML5>",
+    "answer-2": "<!DOCTYPE html5>",
+    "answer-3": "<doctype html>",
+    "answer-4": "<!DOCTYPE html>",
+    "correct_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "Which HTML tag is used to define an unordered list?",
+    "answer-1": "<ol>",
+    "answer-2": "<list>",
+    "answer-3": "<li>",
+    "answer-4": "<ul>",
+    "correct_answer": "<ul>"
+  },
+  {
+    "title": "Which attribute is used to open a link in a new tab?",
+    "answer-1": "new-tab",
+    "answer-2": "href=\"_blank\"",
+    "answer-3": "open=\"new\"",
+    "answer-4": "target=\"_blank\"",
+    "correct_answer": "target=\"_blank\""
+  },
+  {
+    "title": "Which tag is used to embed a video in HTML?",
+    "answer-1": "<media>",
+    "answer-2": "<movie>",
+    "answer-3": "<embed-video>",
+    "answer-4": "<video>",
+    "correct_answer": "<video>"
+  },
+  {
+    "title": "What is the purpose of the <footer> tag in HTML?",
+    "answer-1": "Displays footnotes",
+    "answer-2": "Adds a floating menu",
+    "answer-3": "Starts a new paragraph",
+    "answer-4": "Defines a footer for a document or section",
+    "correct_answer": "Defines a footer for a document or section"
+  },
+  {
+    "title": "Which HTML element is used to play audio files?",
+    "answer-1": "<sound>",
+    "answer-2": "<media>",
+    "answer-3": "<music>",
+    "answer-4": "<audio>",
+    "correct_answer": "<audio>"
+  }
+]
